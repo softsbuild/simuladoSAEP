@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\AppCursosUniversitarios.csproj": {}
+    "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\AppCursosUniversitarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\AppCursosUniversitarios.csproj": {
+    "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\AppCursosUniversitarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\AppCursosUniversitarios.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\AppCursosUniversitarios.csproj",
         "projectName": "AppCursosUniversitarios",
-        "projectPath": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\AppCursosUniversitarios.csproj",
+        "projectPath": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\AppCursosUniversitarios.csproj",
         "packagesPath": "C:\\Users\\Aluno.senai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\obj\\",
+        "outputPath": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

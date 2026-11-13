@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|c:\\users\\aluno.senai\\desktop\\simulado saep\\clinicapet\\clinicapet\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|solutionrelative:clinicapet\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|c:\\users\\aluno.senai\\desktop\\simulado saep\\clinicapet\\clinicapet\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|solutionrelative:clinicapet\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|c:\\users\\aluno.senai\\desktop\\simulado saep\\clinicapet\\clinicapet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|solutionrelative:clinicapet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|c:\\users\\aluno.senai\\desktop\\simulado saep\\clinicapet\\clinicapet\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|solutionrelative:clinicapet\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|c:\\users\\aluno.senai\\desktop\\simulado saep\\clinicapet\\clinicapet\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|solutionrelative:clinicapet\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|c:\\users\\aluno.senai\\desktop\\simulado saep\\clinicapet\\clinicapet\\models\\dbclinicapetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|solutionrelative:clinicapet\\models\\dbclinicapetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|c:\\users\\aluno.senai\\desktop\\simulado saep\\clinicapet\\clinicapet\\models\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|solutionrelative:clinicapet\\models\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|c:\\users\\aluno.senai\\desktop\\simulado saep\\clinicapet\\clinicapet\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|solutionrelative:clinicapet\\models\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|c:\\users\\aluno.senai\\desktop\\simulado saep\\clinicapet\\clinicapet\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|solutionrelative:clinicapet\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|c:\\users\\aluno.senai\\desktop\\simulado saep\\clinicapet\\clinicapet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|solutionrelative:clinicapet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|c:\\users\\aluno.senai\\desktop\\simulado saep\\clinicapet\\clinicapet\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|solutionrelative:clinicapet\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|c:\\users\\aluno.senai\\desktop\\simulado saep\\clinicapet\\clinicapet\\controllers\\tutorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|solutionrelative:clinicapet\\controllers\\tutorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|c:\\users\\aluno.senai\\desktop\\simulado saep\\clinicapet\\clinicapet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{665B8DB7-FC9E-4B21-A5DC-DF2D6346377E}|ClinicaPet\\ClinicaPet.csproj|solutionrelative:clinicapet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicaPet\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Program.cs",
+              "RelativeToolTip": "ClinicaPet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T17:33:13.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ClinicaPet\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ClinicaPet\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:44:10.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgendamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Controllers\\AgendamentoController.cs",
+              "RelativeDocumentMoniker": "ClinicaPet\\Controllers\\AgendamentoController.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Controllers\\AgendamentoController.cs",
+              "RelativeToolTip": "ClinicaPet\\Controllers\\AgendamentoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T17:46:26.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ClinicaPet\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ClinicaPet\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T19:04:07.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ClinicaPet\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "ClinicaPet\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:42:43.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbClinicaPetContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Models\\DbClinicaPetContext.cs",
+              "RelativeDocumentMoniker": "ClinicaPet\\Models\\DbClinicaPetContext.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Models\\DbClinicaPetContext.cs",
+              "RelativeToolTip": "ClinicaPet\\Models\\DbClinicaPetContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T17:30:24.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tutor.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Models\\Tutor.cs",
+              "RelativeDocumentMoniker": "ClinicaPet\\Models\\Tutor.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Models\\Tutor.cs",
+              "RelativeToolTip": "ClinicaPet\\Models\\Tutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T17:39:53.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Agendamento.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Models\\Agendamento.cs",
+              "RelativeDocumentMoniker": "ClinicaPet\\Models\\Agendamento.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Models\\Agendamento.cs",
+              "RelativeToolTip": "ClinicaPet\\Models\\Agendamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T17:51:52.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "ClinicaPet\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Models\\Pet.cs",
+              "RelativeToolTip": "ClinicaPet\\Models\\Pet.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T17:52:05.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClinicaPet\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClinicaPet\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T17:47:38.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "ClinicaPet\\Controllers\\PetController.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Controllers\\PetController.cs",
+              "RelativeToolTip": "ClinicaPet\\Controllers\\PetController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T17:45:59.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TutorController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Controllers\\TutorController.cs",
+              "RelativeDocumentMoniker": "ClinicaPet\\Controllers\\TutorController.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\Controllers\\TutorController.cs",
+              "RelativeToolTip": "ClinicaPet\\Controllers\\TutorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T17:45:30.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\appsettings.json",
+              "RelativeDocumentMoniker": "ClinicaPet\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\ClinicaPet\\ClinicaPet\\appsettings.json",
+              "RelativeToolTip": "ClinicaPet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-30T17:27:39.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

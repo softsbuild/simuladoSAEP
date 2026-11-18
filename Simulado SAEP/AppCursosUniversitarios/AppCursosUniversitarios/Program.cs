@@ -1,7 +1,15 @@
+using AppCursosUniversitarios.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddSession();
+
+
+builder.Services.AddDbContext<DbCursosEnemContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoSqlServer")));
 
 var app = builder.Build();
 
@@ -22,7 +30,8 @@ app.MapStaticAssets();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
+    pattern: "{controller=Login}/{action=Index}/{id?}")
+    
     .WithStaticAssets();
 
 

@@ -1,12 +1,173 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno.senai\\Desktop\\Simulado SAEP\\AppCursosUniversitarios\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|c:\\users\\aluno.senai\\documents\\simuladosaep\\simulado saep\\appcursosuniversitarios\\appcursosuniversitarios\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|solutionrelative:appcursosuniversitarios\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|c:\\users\\aluno.senai\\documents\\simuladosaep\\simulado saep\\appcursosuniversitarios\\appcursosuniversitarios\\controllers\\escolhacursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|solutionrelative:appcursosuniversitarios\\controllers\\escolhacursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|c:\\users\\aluno.senai\\documents\\simuladosaep\\simulado saep\\appcursosuniversitarios\\appcursosuniversitarios\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|solutionrelative:appcursosuniversitarios\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|c:\\users\\aluno.senai\\documents\\simuladosaep\\simulado saep\\appcursosuniversitarios\\appcursosuniversitarios\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|solutionrelative:appcursosuniversitarios\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|c:\\users\\aluno.senai\\documents\\simuladosaep\\simulado saep\\appcursosuniversitarios\\appcursosuniversitarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|solutionrelative:appcursosuniversitarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|c:\\users\\aluno.senai\\documents\\simuladosaep\\simulado saep\\appcursosuniversitarios\\appcursosuniversitarios\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|solutionrelative:appcursosuniversitarios\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|c:\\users\\aluno.senai\\documents\\simuladosaep\\simulado saep\\appcursosuniversitarios\\appcursosuniversitarios\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|solutionrelative:appcursosuniversitarios\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|c:\\users\\aluno.senai\\documents\\simuladosaep\\simulado saep\\appcursosuniversitarios\\appcursosuniversitarios\\models\\dbcursosenemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|solutionrelative:appcursosuniversitarios\\models\\dbcursosenemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|c:\\users\\aluno.senai\\documents\\simuladosaep\\simulado saep\\appcursosuniversitarios\\appcursosuniversitarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F8FB494-75C4-46A9-A186-F9D653527A81}|AppCursosUniversitarios\\AppCursosUniversitarios.csproj|solutionrelative:appcursosuniversitarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "AppCursosUniversitarios\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "AppCursosUniversitarios\\Controllers\\CursoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T19:36:38.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EscolhaCursoController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Controllers\\EscolhaCursoController.cs",
+              "RelativeDocumentMoniker": "AppCursosUniversitarios\\Controllers\\EscolhaCursoController.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Controllers\\EscolhaCursoController.cs",
+              "RelativeToolTip": "AppCursosUniversitarios\\Controllers\\EscolhaCursoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T19:37:25.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "AppCursosUniversitarios\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "AppCursosUniversitarios\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T19:37:54.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "AppCursosUniversitarios\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "AppCursosUniversitarios\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T19:35:47.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Program.cs",
+              "RelativeDocumentMoniker": "AppCursosUniversitarios\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Program.cs",
+              "RelativeToolTip": "AppCursosUniversitarios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T19:34:16.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppCursosUniversitarios\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "AppCursosUniversitarios\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-13T19:44:15.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "AppCursosUniversitarios\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "AppCursosUniversitarios\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T19:41:08.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbCursosEnemContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Models\\DbCursosEnemContext.cs",
+              "RelativeDocumentMoniker": "AppCursosUniversitarios\\Models\\DbCursosEnemContext.cs",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\Models\\DbCursosEnemContext.cs",
+              "RelativeToolTip": "AppCursosUniversitarios\\Models\\DbCursosEnemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T19:33:33.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\appsettings.json",
+              "RelativeDocumentMoniker": "AppCursosUniversitarios\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aluno.senai\\Documents\\simuladoSAEP\\Simulado SAEP\\AppCursosUniversitarios\\AppCursosUniversitarios\\appsettings.json",
+              "RelativeToolTip": "AppCursosUniversitarios\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-13T19:30:22.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
